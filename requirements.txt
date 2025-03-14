@@ -2,6 +2,7 @@ jupyter
 notebook
 tensorflow
 keras
+keras_preprocessing
 numpy
 pandas
 tqdm
